@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Siddharth
+- 👀 I’m interested in Software Development and Quality Assurance
+- 🌱 Currently working as Software Engineer
